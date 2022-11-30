@@ -36,7 +36,7 @@ const employeesData = [
     gender: 'M',
   },
   {
-    id: 5, // never give same id, otherwise fuckk!!!
+    id: 5, // never give same id
     name: 'Vivek Kumar',
     designation: 'Senior',
     department: 'Front-end',
