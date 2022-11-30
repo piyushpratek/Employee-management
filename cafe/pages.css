@@ -1,0 +1,24 @@
+h2 {
+  background-color: #00bcd4;
+  font-size: 70px;
+  margin: 17px 9px;
+  padding: 38px 119px;
+}
+#search-wrapper {
+  justify-content: center;
+
+  position: absolute;
+  display: flex;
+  left: 650px;
+  height: 45px;
+  width: 51px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+
+  padding: 15px 69px;
+  margin: 85px 85px;
+}
